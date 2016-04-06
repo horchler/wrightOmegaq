@@ -6,7 +6,7 @@ wrightOmegaq
 
 --------
 
-```W = wrightOmegaq(Z)``` performs floating point evaluation of the Wright omega function. ```Z``` is an array and may be complex. If ```Z``` is an array of symbolic values, it is converted to double-precision for computation and then recast as symbolic.
+[```wrightOmegaq(Z)```](https://github.com/horchler/wrightOmegaq/blob/master/wrightOmegaq.m) performs floating point evaluation of the Wright omega function. ```Z``` is an array and may be complex. If ```Z``` is an array of symbolic values, it is converted to double-precision for computation and then recast as symbolic.
 
 ```wrightOmegaq``` is up three to four orders of magnitude faster than ```wrightOmega``` for double-precision arrays. Additionally, it has much less numeric error, properly evaluates values greater than ```2^28```, supports single-precision evaluation, and handles ```NaN``` inputs.
 &nbsp;  
