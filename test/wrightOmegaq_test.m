@@ -7,7 +7,7 @@ function wrightOmegaq_test
 %   
 %   See also: WRIGHTOMEGAQ, WRIGHTOMEGAQINV, WRIGHTOMEGA
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-14-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-14-12
 %   Revision: 1.0, 3-12-13
 
 

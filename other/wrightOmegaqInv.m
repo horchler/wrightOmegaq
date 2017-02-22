@@ -29,7 +29,7 @@ function Z=wrightOmegaqInv(W)
 %   Henocque, and Volker Sorge, Eds.), Berlin: Springer-Verlag, pp. 76-89, 2002.
 %   http://orcca.on.ca/TechReports/2000/TR-00-12.html
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 3-11-13
+%   Andrew D. Horchler, horchler @ gmail . com, Created 3-11-13
 %   Revision: 1.0, 3-12-12
 
 
