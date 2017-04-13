@@ -1,8 +1,8 @@
 wrightOmegaq
 ========
-#####Complex double-precision evaluation of the Wright omega function, a solution of ```W+LOG(W) = Z```.#####
-######Version 1.0, 3-12-13######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/wrightOmegaq/archive/master.zip)#####
+##### Complex double-precision evaluation of the Wright omega function, a solution of ```W+LOG(W) = Z```.
+###### Version 1.0, 3-12-13
+##### Download Repository: [ZIP Archive](https://github.com/horchler/wrightOmegaq/archive/master.zip)
 
 --------
 
